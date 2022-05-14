@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{hernandez2020evaluating}
+E.~Hern{\'a}ndez-Orallo, P.~Manzoni, C.~T. Calafate, and J.-C. Cano,
+  ``{Evaluating how smartphone contact tracing technology can reduce the spread
+  of infectious diseases: the case of COVID-19},'' {\em Ieee Access}, vol.~8,
+  pp.~99083--99097, 2020.
+
+\bibitem{mahmood2021contextual}
+M.~Mahmood, J.~Mateu, and E.~H. Orallo, ``{Contextual Contact Tracing based on
+  Stochastic Compartment Modeling and Spatial Risk Assessment},'' {\em
+  {Stochastic Environmental Research and Risk Assessment}}, 2021.
+
+\bibitem{moraga2019geospatial}
+P.~Moraga, {\em {Geospatial health data: Modeling and visualization with R-INLA
+  and Shiny}}.
+\newblock Chapman and Hall/CRC, 2019.
+
+\bibitem{SUMO2018}
+P.~A. Lopez, M.~Behrisch, L.~Bieker-Walz, J.~Erdmann, Y.-P. Fl{\"o}tter{\"o}d,
+  R.~Hilbrich, L.~L{\"u}cken, J.~Rummel, P.~Wagner, and E.~Wie{\ss}ner,
+  ``{Microscopic Traffic Simulation using SUMO},'' in {\em The 21st IEEE
+  International Conference on Intelligent Transportation Systems}, IEEE, 2018.
+
+\end{thebibliography}
